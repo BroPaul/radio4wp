@@ -7,4 +7,4 @@ Just include the `index.php` file in the `footer.php` of your WordPress theme an
 
 Modify `track.js` to play your own music.
 
-For more info, check out this post: http://www.bropaul.com/radio4wp
+For more info, check out this post: http://bropaul.tk/radio4wp
